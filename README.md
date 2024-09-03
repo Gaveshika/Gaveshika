@@ -5,15 +5,19 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/p2GaqIvO2CghxLofci/giphy.gif?cid=790b7611slz4uy09805hw8dv04l8ek2wiw6ml8ewxupxzyqt&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
+  <a href="https://www.linkedin.com/in/uththara-jayawardana?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRrwCqVWCRnKJKCBMaQk9eg%3D%3D" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="UththaraJay#6429" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <img height="100" src="https://media.giphy.com/media/p2GaqIvO2CghxLofci/giphy.gif?cid=790b7611slz4uy09805hw8dv04l8ek2wiw6ml8ewxupxzyqt&ep=v1_stickers_search&rid=giphy.gif&ct=s"  />
 </div>
 
 ###
@@ -101,10 +105,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
