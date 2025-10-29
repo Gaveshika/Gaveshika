@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm ... from ....Sri Lanka <br><br>- 🔭 I’m Undergraduate @ UCSC.<br>- 👀 I’m passionate about using data for social good and environmental sustainability.<br>- 📚 I'm currently learning  Java , C , C++ , Javascript , php ,Scala, Python ,Spring boot and React.<br>- ⚡ In my free time I love to listen music and do paintings.<br>- 💞️ I’m looking to collaborate on beginner-friendly coding projects.</p>
+<p align="left">I'm ... from ....Sri Lanka <br><br>- 🔭 I’m CS Graduate @ UCSC.<br>- 👀 I’m passionate about using data for social good and environmental sustainability.<br>- 📚 I'm currently learning  Java , C , C++ , Javascript , php ,Scala, Python ,Spring boot and React.<br>- ⚡ In my free time I love to listen music and do paintings.<br>- 💞️ I’m looking to collaborate on beginner-friendly coding projects.</p>
 
 ###
 
